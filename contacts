@@ -1,0 +1,40 @@
+{
+  "contacts": [
+      {
+        "id":"00001",
+        "name":"vijay",
+        "email":"vijay@gmail.com",
+        "address":"xx-xx-xxxx,x-state,x-country",
+        "gender":"male",
+        "phone":{
+            "mobile":"+99999999",
+            "phone":"88888888",
+            "office":"77777777",
+        }
+      },
+      {
+        "id":"00002",
+        "name":"bhasker",
+        "email":"bhasker@gmail.com",
+        "address":"xx-xx-xxxx,x-state,x-country",
+        "gender":"male",
+        "phone":{
+            "mobile":"+99999999",
+            "phone":"88888888",
+            "office":"77777777",
+        }
+      },
+      {
+        "id":"00003",
+        "name":"reddy",
+        "email":"reddy@gmail.com",
+        "address":"xx-xx-xxxx,x-state,x-country",
+        "gender":"male",
+        "phone":{
+            "mobile":"+99999999",
+            "phone":"88888888",
+            "office":"77777777",
+        }
+      },
+  ]
+}
